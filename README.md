@@ -1,1 +1,3 @@
 # FakeNewsDetection
+
+The lives of individuals have been impacted significantly in recent years as a result of false information sharing. This era of social media has accelerated the spread of a lot of fake news from anti-social groups throughout the globe. Applying the machine learning techniques we learned will help our group tackle this challenge by producing a result that makes it posssible for us to do so. The spread of false information has caused instablity in both past and the present, which has also resulted in the loss of human lives. By detecting whether a particular news is legitimate or false using machine learning concepts, our organiztion aims to help ensure social peace and sanity.
